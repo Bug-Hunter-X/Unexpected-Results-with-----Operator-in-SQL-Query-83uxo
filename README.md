@@ -1,0 +1,1 @@
+This repository contains an example of a common SQL error involving the `>` operator.  The original query excludes values equal to the specified threshold, leading to potentially unexpected results.  The solution demonstrates how to correctly include values equal to the threshold using the `>=` operator.
